@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sopa de Lletres</string>
+    <string name="BotonJugar">Jugar</string>
+    <string name="tv_Benvinguda">Benvinguts!!!</string>
+    <string name="tv_Joc">Toca a la pantalla per començar el joc.</string>
+    <string name="BotonMenu">Menu Principal</string>
+</resources>
